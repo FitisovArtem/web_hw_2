@@ -2,7 +2,6 @@ import AddressBook.main as ab
 import Notes.main as note
 import Sorter.sorter as sorter
 import Weather.weather as weather
-import Game.game as g
 from time import sleep
 
 STOP_COMMAND = ["exit"]

@@ -16,4 +16,4 @@ RUN pip install -r requirements.txt
 EXPOSE 3000
 
 # Запустимо наш застосунок всередині контейнера
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
